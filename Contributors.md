@@ -1,5 +1,6 @@
 # Contributors
 
+-- [Sanjana Anand](https://github.com/sa1895)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia] (https://github.com/eugenechia)
 - [Nikhil] (My first contributions: https://github.com/Nikhil-NP)
